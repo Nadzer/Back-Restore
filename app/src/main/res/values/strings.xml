@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Back &amp; Restore</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_item_grid">Image item gridview</string>
+</resources>
